@@ -54,7 +54,6 @@ import logcat.LogcatLogger
 import mihon.core.firebase.Firebase
 import nekotachi.core.migration.Migrator
 import nekotachi.core.migration.migrations.migrations
-import nekotachi.core.firebase.Firebase
 import org.conscrypt.Conscrypt
 import tachiyomi.core.common.i18n.stringResource
 import tachiyomi.core.common.preference.Preference
