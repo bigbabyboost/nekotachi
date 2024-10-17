@@ -51,7 +51,7 @@ import kotlinx.coroutines.flow.onEach
 import logcat.AndroidLogcatLogger
 import logcat.LogPriority
 import logcat.LogcatLogger
-import nekotachi.core.firebase.Firebase
+import mihon.core.firebase.Firebase
 import nekotachi.core.migration.Migrator
 import nekotachi.core.migration.migrations.migrations
 import nekotachi.core.firebase.Firebase
